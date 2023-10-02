@@ -1,56 +1,53 @@
 {
-  "name":"DevFest Jakarta",
-  "cover_image":"cover.png",
+  "name": "DevFest Durgapur",
+  "cover_image": "cover.png",
   "desc": {
     "short": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.",
     "long": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc."
   },
-  "hashtags": [
-    "DevFest2023",
-    "CommunityName"
-  ],
-  "date": "Oct 23, 2023",
-  "time": "10 am IST",
+  "hashtags": ["DevFest2023", "GDG DURGAPUR"],
+  "date": "Nov 5th, 2023",
+  "time": "09 am IST",
   "venue": {
-    "name": "Hotel Name",
-    "address": "23b, Morden Town",
-    "city": "",
+    "name": "DURGAPUR",
+    "address": "Mahatma Gandhi Avenue",
+    "city": "DURGAPUR",
     "pincode": "",
-    "map": ""
+    "map": "https://maps.app.goo.gl/aFJ4d1LRLcgFezdx8"
   },
   "registration": {
-    "link":"https://techferment.com",
+    "link": "https://gdg-durgapur.github.io/",
     "status": "1"
   },
   "call_for_speakers": {
     "status": "0",
-    "link": "",
+    "link": "https://lnkd.in/d6ttMmjw",
     "lastdate": ""
   },
   "stats": [
     {
-      "name": "Tracks",
-      "value": "4"
+      "name": "Registrations",
+      "value": "1546+"
     },
     {
       "name": "Speakers",
-      "value": "20+"
+      "value": "7+"
     },
     {
-      "name": "Participants",
-      "value": "500+"
+      "name": "Attendees",
+      "value": "280+"
     },
     {
       "name": "Sessions",
-      "value": "20"
+      "value": "9"
     },
     {
       "name": "Day",
       "value": "1"
     },
     {
-      "name": "Workshops",
-      "value": "5"
+      "name": "Organization",
+      "value": "27"
     }
   ],
   "what_to_expect": [
